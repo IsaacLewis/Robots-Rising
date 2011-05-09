@@ -1,0 +1,44 @@
+DPA - average damage per action point. Good is high damage, poor is low damage (though there might be variance between accuracy and damage)
+
+Ammo - How easy ammo is to find. Good is common ammo that comes in 'clips' (ie, one ammo item provides multiple attacks), poor is rare or single use ammo.
+
+Power - power packs required. Good weapons require little or no power, poor weapons have heavy power requirements.
+
+Very poor - poor - average - good - very good (very good only applies to DPA)
+
+Distributions for "average" weapons:  (note - all the best weapons should be average)
+
+
+VG,A,VP
+VG,P,P
+G,G,VP
+G,A,P
+A,A,A
+
+VP,G,G
+Crowbar
+Katana
+
+A,A,A
+Pistol
+
+A,G,P
+Chainsaw
+
+A,P,G
+Crossbow
+
+G,A,P
+Railgun
+
+G,P,A
+Flechette rifle
+
+VG,A,VP
+Plasma torch
+
+VG,VP,A
+Flamethrower
+
+VG,P,P
+Pulse rifle

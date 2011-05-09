@@ -1,0 +1,36 @@
+DESIGN
+
+- Locations
+-- location types
+-- items within each location
+
+- Weapons
+
+- Revival system
+
+DEVELOPMENT
+
+- Attacking
+-- attack forms
+-- processing
+-- use up ammo and energy
+
+- Limited AP
+-- actions cost AP
+-- can't act if no AP
+
+- Items
+-- searching/manufacturing
+--- search processing
+-- items table
+-- Drop
+--- drop button
+--- processing
+
+- Humans/Robots
+
+- Death/revival
+
+- Facebook integration
+
+- Front-end design
